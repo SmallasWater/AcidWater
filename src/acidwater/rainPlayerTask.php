@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: ZXR
- * Date: 2019/9/18
- * Time: 15:04
- */
+
 
 namespace acidwater;
 
